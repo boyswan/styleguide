@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "typography": [
+        {
+          "desktop": [
+            {
+              "title": "Header1",
+              "font": "Helvetica Neue",
+              "size": 44,
+              "weight": 600,
+              "line": 1,
+              "spacing": 1,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            },
+            {
+              "title": "Header2",
+              "font": "Helvetica Neue",
+              "size": 32,
+              "weight": 600,
+              "line": 1,
+              "spacing": 10,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            },
+            {
+              "title": "Header3",
+              "font": "Helvetica Neue",
+              "size": 22,
+              "weight": 600,
+              "line": 1,
+              "spacing": 1,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            }
+          ]
+        },
+        {
+          "tablet": [
+            {
+              "title": "Header1",
+              "font": "Helvetica Neue",
+              "size": 32,
+              "weight": 600,
+              "line": 1,
+              "spacing": 1,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            },
+            {
+              "title": "Header2",
+              "font": "Helvetica Neue",
+              "size": 22,
+              "weight": 600,
+              "line": 1,
+              "spacing": 10,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            },
+            {
+              "title": "Header3",
+              "font": "Helvetica Neue",
+              "size": 12,
+              "weight": 600,
+              "line": 1,
+              "spacing": 1,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            }
+          ]
+        },
+        {
+          "mobile": [
+            {
+              "title": "Header1",
+              "font": "Helvetica Neue",
+              "size": 22,
+              "weight": 600,
+              "line": 1,
+              "spacing": 1,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            },
+            {
+              "title": "Header2",
+              "font": "Helvetica Neue",
+              "size": 12,
+              "weight": 600,
+              "line": 1,
+              "spacing": 10,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            },
+            {
+              "title": "Header3",
+              "font": "Helvetica Neue",
+              "size": 8,
+              "weight": 600,
+              "line": 1,
+              "spacing": 1,
+              "colour": "#000000",
+              "info": "This is only used in black, always with a sub heading"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "colours": [
+        "#eeeeee",
+        "#dddddd",
+        "#cccccc",
+        "#bbbbbb",
+        "#aaaaaa",
+        "#eeeeee",
+        "#eeeeee",
+        "#eeeeee",
+        "#eeeeee"
+      ]
+    }
+  ]
+}

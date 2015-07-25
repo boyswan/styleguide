@@ -1,0 +1,52 @@
+{
+  "data": [
+
+    {"typography": [
+
+        {"desktop": {
+          "item1": {
+            "info": "Helvetica Neue",
+            "title": "Header1",
+            "fontSize": 44,
+            "fontWeight": 600,
+            "lineHeight": 1,
+            "description": "This is only used in black, always with a sub heading"
+          }
+        }},
+
+        {"tablet": {
+          "item1": {
+            "info": "Helvetica Neue",
+            "title": "Header1",
+            "fontSize": 44,
+            "fontWeight": 600,
+            "lineHeight": 1,
+            "description": "This is only used in black, always with a sub heading"
+          }
+        }},
+
+        {"mobile": {
+          "item1": {
+            "info": "Helvetica Neue",
+            "title": "Header1",
+            "fontSize": 44,
+            "fontWeight": 600,
+            "lineHeight": 1,
+            "description": "This is only used in black, always with a sub heading"
+          }
+        }}
+    ]},
+
+    {"colours": [
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee",
+      "#eeeeee"
+    ]
+  }]
+}
